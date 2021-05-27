@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Sweet Tooth
+
+![Screenshot_2021-05-27 Sweeth Tooth](https://user-images.githubusercontent.com/45850882/119777743-3a9b2880-bee4-11eb-9c30-8034d8aa2fc9.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
